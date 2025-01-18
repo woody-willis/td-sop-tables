@@ -77,7 +77,6 @@
                             "default": {},
                             "title": "Mapping Data for a Specific Bit",
                             "description": "0 refers to the least significant bit, 7 refers to the most significant bit",
-                            "additionalProperties": false,
                             "anyOf": [
                                 {
                                     "required": [
