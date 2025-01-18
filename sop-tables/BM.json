@@ -1,0 +1,312 @@
+{
+    "id": "BM",
+    "name": "Barnham DTD",
+    "topic": "TD_SUSS_SIG_AREA",
+    "indications": [
+        "SIG",
+        "RTE",
+        "TRS",
+        "LXG"
+    ],
+    "mappings": {
+        "00": {
+            "0": {
+                "type": "SIG",
+                "berth": "BH74",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "BH73",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "BH42",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "BH41",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "BH40",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "BH39",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "BH38",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "BH20",
+                "set_state": "OFF"
+            }
+        },
+        "01": {
+            "1": {
+                "type": "SIG",
+                "berth": "BH81",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "BH80",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "BH79",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "BH78",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "BH77",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "BH76",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "BH75",
+                "set_state": "OFF"
+            }
+        },
+        "02": {
+            "1": {
+                "type": "SIG",
+                "berth": "BH72",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "BH71",
+                "set_state": "OFF"
+            }
+        },
+        "03": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "BH40",
+                "to_berth": "BH76",
+                "route_type": "C"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "BH40",
+                "to_berth": "BH76",
+                "route_type": "M"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "BH40",
+                "to_berth": "BH20",
+                "route_type": "C"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "BH40",
+                "to_berth": "BH20",
+                "route_type": "M"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "BH39",
+                "to_berth": "BH79"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "BH39",
+                "to_berth": "BH41"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "BH38",
+                "to_berth": "BH74"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "BH20",
+                "to_berth": "BH74"
+            }
+        },
+        "04": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "BH78",
+                "to_berth": "BH76",
+                "route_type": "C"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "BH78",
+                "to_berth": "BH76",
+                "route_type": "M"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "BH77",
+                "to_berth": "BH41"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "BH77",
+                "to_berth": "BH79"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "BH76",
+                "to_berth": "BH74"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "BH75",
+                "to_berth": "BH39"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "BH75",
+                "to_berth": "BH77"
+            }
+        },
+        "05": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "B115",
+                "to_berth": "BH77"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "B115",
+                "to_berth": "B117"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "BH78",
+                "to_berth": "BH38",
+                "route_type": "C"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "BH78",
+                "to_berth": "BH38",
+                "route_type": "M"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "BH78",
+                "to_berth": "BH20",
+                "route_type": "C"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "BH78",
+                "to_berth": "BH20",
+                "route_type": "M"
+            }
+        },
+        "06": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "B140",
+                "to_berth": "BH20"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "B122",
+                "to_berth": "BH20"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "B122",
+                "to_berth": "BH38"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "B120",
+                "to_berth": "B119"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "B120",
+                "to_berth": "BH76"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "B117",
+                "to_berth": "COUT"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "B115",
+                "to_berth": "BH39"
+            }
+        },
+        "07": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "B140",
+                "to_berth": "BH38"
+            }
+        },
+        "08": {
+            "0": {
+                "type": "TRS",
+                "code": "EN"
+            },
+            "1": {
+                "type": "TRS",
+                "code": "EL"
+            },
+            "2": {
+                "type": "TRS",
+                "code": "GP"
+            },
+            "3": {
+                "type": "TRS",
+                "code": "GM"
+            },
+            "4": {
+                "type": "TRS",
+                "code": "HD"
+            },
+            "5": {
+                "type": "TRS",
+                "code": "HB"
+            }
+        },
+        "09": {
+            "5": {
+                "type": "LXG",
+                "code": "YN",
+                "indication": "FAILED"
+            },
+            "6": {
+                "type": "LXG",
+                "code": "YN",
+                "indication": "DOWN"
+            },
+            "7": {
+                "type": "LXG",
+                "code": "YN",
+                "indication": "UP"
+            }
+        }
+    }
+}
