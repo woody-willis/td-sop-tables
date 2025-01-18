@@ -29,7 +29,7 @@
         },
         "topic": {
             "type": "string",
-            "title": "Topic of Train Describer Area (DEPRACATED)",
+            "title": "Topic of Train Describer Area (DEPRECATED)",
             "examples": [
                 "TD_SUSS_SIG_AREA"
             ]
@@ -69,13 +69,14 @@
                 "^[0-9A-F]*$": {
                     "type": "object",
                     "default": {},
-                    "title": "Mapping Data for a Specific Address",
+                    "title": "Mapping Data for a Specific Address in hexadecimal",
                     "additionalProperties": false,
                     "patternProperties": {
                         "^[0-7]$": {
                             "type": "object",
                             "default": {},
                             "title": "Mapping Data for a Specific Bit",
+                            "description": "0 refers to the least significant bit, 7 refers to the most significant bit",
                             "additionalProperties": false,
                             "anyOf": [
                                 {
