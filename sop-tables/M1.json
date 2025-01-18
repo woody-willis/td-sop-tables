@@ -1,0 +1,263 @@
+{
+    "$schema": "https://raw.githubusercontent.com/woody-willis/td-sop-tables/refs/heads/main/schema.json",
+    "id": "M1",
+    "name": "MRROC Liverpool Area WestCAD",
+    "topic": "TD_LNW_C_SIG_AREA",
+    "indications": [
+        "SIG",
+        "RTE"
+    ],
+    "mappings": {
+        "00": {
+            "0": {
+                "type": "SIG",
+                "berth": "1577",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "3572",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "3573",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "3574",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "3575",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "3576",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "3577",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "3578",
+                "set_state": "OFF"
+            }
+        },
+        "01": {
+            "0": {
+                "type": "SIG",
+                "berth": "3579",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "3580",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "3581",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "3582",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "3584",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "3585",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "3586",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "3587",
+                "set_state": "OFF"
+            }
+        },
+        "02": {
+            "0": {
+                "type": "SIG",
+                "berth": "3590",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "3591",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "3592",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "3593",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "3739",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "3745",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "3746",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "3749",
+                "set_state": "OFF"
+            }
+        },
+        "03": {
+            "0": {
+                "type": "SIG",
+                "berth": "3750",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "3754",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "3755",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "5579",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "5583",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "9588",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "5580",
+                "set_state": "OFF"
+            }
+        },
+        "04": {
+            "0": {
+                "type": "SIG",
+                "berth": "5582",
+                "set_state": "OFF"
+            }
+        },
+        "05": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "3572",
+                "to_berth": "W589"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "3573",
+                "to_berth": "5375"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "3585",
+                "to_berth": "3587"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "3585",
+                "to_berth": "5579"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "3591",
+                "to_berth": "3593"
+            }
+        },
+        "06": {
+            "1": {
+                "type": "RTE",
+                "from_berth": "3755",
+                "to_berth": "5579"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "3755",
+                "to_berth": "9593"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "5583",
+                "to_berth": "3593"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "9588",
+                "to_berth": "3584"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "3586",
+                "to_berth": "3584"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "3592",
+                "to_berth": "5582"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "3592",
+                "to_berth": "3590"
+            }
+        },
+        "07": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "5580",
+                "to_berth": "3574"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "5580",
+                "to_berth": "3584"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "5582",
+                "to_berth": "5580"
+            }
+        }
+    }
+}
