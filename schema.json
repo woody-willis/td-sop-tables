@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "https://raw.githubusercontent.com/woody-willis/td-sop-tables/sop-tables/schema.json",
+    "$id": "https://raw.githubusercontent.com/woody-willis/td-sop-tables/refs/heads/main/schema.json",
     "type": "object",
     "default": {},
     "title": "Train Describer SOP Table Schema",
