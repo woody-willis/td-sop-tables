@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
     
       - name: Validate JSON files
-        uses: dsanders11/json-schema-validate-action
+        uses: dsanders11/json-schema-validate-action@v1.1.2
         with:
           schema: ./schema.json
           files: ./sop-tables/*.json
