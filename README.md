@@ -4,6 +4,18 @@
 
 This repository contains JSON representations of the known SOP tables to interpret [S-Class messages](https://wiki.openraildata.com/index.php/S_Class_Messages) from Network Rail's [TD](https://wiki.openraildata.com/index.php/TD) feed.
 
+## Support
+
+The following table shows which indications are supported by the JSON schema.
+
+| Indication       | Supported |
+|------------------|-----------|
+| Signals          | ✅        |
+| Routes           | ✅        |
+| TRTS             | ✅        |
+| Track Occupation |           |
+| Points           |           |
+| Level Crossings  |           |
 
 ## Contributing
 
