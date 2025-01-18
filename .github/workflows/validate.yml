@@ -1,0 +1,26 @@
+name: Validate JSON files
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'sop-tables/*.json'
+  pull_request:
+    branches:
+      - main
+    paths:
+        - 'sop-tables/*.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+    
+      - name: Validate JSON files
+        uses: dsanders11/json-schema-validate-action
+        with:
+          schema: ./schema.json
+          files: ./sop-tables/*.json

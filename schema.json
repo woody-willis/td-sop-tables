@@ -1,0 +1,201 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://raw.githubusercontent.com/woody-willis/td-sop-tables/sop-tables/schema.json",
+    "type": "object",
+    "default": {},
+    "title": "Train Describer SOP Table Schema",
+    "description": "The schema for Train Describer SOP Tables",
+    "required": [
+        "id",
+        "name",
+        "indications",
+        "mappings"
+    ],
+    "properties": {
+        "id": {
+            "type": "string",
+            "title": "ID of the Train Describer Area",
+            "pattern": "^[0-9A-Z]{2}$",
+            "examples": [
+                "BM"
+            ]
+        },
+        "name": {
+            "type": "string",
+            "title": "Name of the Train Describer Area",
+            "examples": [
+                "Barnham DTD"
+            ]
+        },
+        "topic": {
+            "type": "string",
+            "title": "Topic of Train Describer Area (DEPRACATED)",
+            "examples": [
+                "TD_SUSS_SIG_AREA"
+            ]
+        },
+        "indications": {
+            "type": "array",
+            "default": [],
+            "title": "Available Indications for the Train Describer Area",
+            "items": {
+                "type": "string",
+                "title": "Indication",
+                "enum": [
+                    "SIG",
+                    "RTE",
+                    "TRS",
+                    "TRK",
+                    "PTS",
+                    "LXG"
+                ]
+            },
+            "examples": [
+                [
+                    "SIG",
+                    "RTE",
+                    "TRS",
+                    "TRK",
+                    "PTS",
+                    "LXG"
+                ]
+            ]
+        },
+        "mappings": {
+            "type": "object",
+            "title": "Mapping Data for the Train Describer Area",
+            "additionalProperties": false,
+            "patternProperties": {
+                "^[0-9A-F]*$": {
+                    "type": "object",
+                    "default": {},
+                    "title": "Mapping Data for a Specific Address",
+                    "additionalProperties": false,
+                    "patternProperties": {
+                        "^[0-7]$": {
+                            "type": "object",
+                            "default": {},
+                            "title": "Mapping Data for a Specific Bit",
+                            "additionalProperties": false,
+                            "anyOf": [
+                                {
+                                    "required": [
+                                        "type",
+                                        "berth",
+                                        "set_state"
+                                    ],
+                                    "properties": {
+                                        "type": {
+                                            "type": "string",
+                                            "title": "Indication Type",
+                                            "description": "The type of indication that the bit represents",
+                                            "enum": [
+                                                "SIG"
+                                            ]
+                                        },
+                                        "berth": {
+                                            "type": "string",
+                                            "title": "Berth ID"
+                                        },
+                                        "set_state": {
+                                            "type": "string",
+                                            "title": "The state of the signal is bit is set to 1",
+                                            "enum": [
+                                                "OFF",
+                                                "ON"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "required": [
+                                        "type",
+                                        "from_berth",
+                                        "to_berth"
+                                    ],
+                                    "properties": {
+                                        "type": {
+                                            "type": "string",
+                                            "title": "Indication Type",
+                                            "description": "The type of indication that the bit represents",
+                                            "enum": [
+                                                "RTE"
+                                            ]
+                                        },
+                                        "from_berth": {
+                                            "type": "string",
+                                            "title": "From Berth ID"
+                                        },
+                                        "to_berth": {
+                                            "type": "string",
+                                            "title": "To Berth ID"
+                                        },
+                                        "route_type": {
+                                            "type": "string",
+                                            "title": "Route Type",
+                                            "enum": [
+                                                "C",
+                                                "M",
+                                                "S"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "required": [
+                                        "type",
+                                        "berth"
+                                    ],
+                                    "properties": {
+                                        "type": {
+                                            "type": "string",
+                                            "title": "Indication Type",
+                                            "description": "The type of indication that the bit represents",
+                                            "enum": [
+                                                "TRS"
+                                            ]
+                                        },
+                                        "berth": {
+                                            "type": "string",
+                                            "title": "The berth the TRTS relates to"
+                                        }
+                                    }
+                                },
+                                {
+                                    "required": [
+                                        "type",
+                                        "code",
+                                        "indication"
+                                    ],
+                                    "properties": {
+                                        "type": {
+                                            "type": "string",
+                                            "title": "Indication Type",
+                                            "description": "The type of indication that the bit represents",
+                                            "enum": [
+                                                "LXG"
+                                            ]
+                                        },
+                                        "code": {
+                                            "type": "string",
+                                            "title": "Level Crossing Code"
+                                        },
+                                        "indication": {
+                                            "type": "string",
+                                            "title": "Indication",
+                                            "enum": [
+                                                "UP",
+                                                "DOWN",
+                                                "FAILED"
+                                            ]
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
