@@ -15,7 +15,7 @@ The following table shows which indications are supported by the JSON schema.
 | TRTS             | ✅        |
 | Track Occupation |           |
 | Points           |           |
-| Level Crossings  |           |
+| Level Crossings  | ✅        |
 
 ## Contributing
 
