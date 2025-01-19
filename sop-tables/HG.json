@@ -1,0 +1,208 @@
+{
+    "$schema": "https://raw.githubusercontent.com/woody-willis/td-sop-tables/refs/heads/main/schema.json",
+    "id": "HG",
+    "name": "Harrogate IECC",
+    "topic": "TD_LNE_NE_SIG_AREA",
+    "indications": [
+        "SIG",
+        "RTE",
+        "PTS",
+        "LXG"
+    ],
+    "mappings": {
+        "00": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "HG4109",
+                "to_berth": "HG4111",
+                "route_type": "M"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "HG4109",
+                "to_berth": "HG4111"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "HG4111",
+                "to_berth": "HG4114",
+                "route_type": "S"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "HG4111",
+                "to_berth": "HG4114",
+                "route_type": "M"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "HG4112",
+                "to_berth": "HG4114",
+                "route_type": "S"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "HG4113",
+                "to_berth": "HG4114",
+                "route_type": "S"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "HG4113",
+                "to_berth": "HG4119",
+                "route_type": "M"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "HG4114",
+                "to_berth": "HG4108",
+                "route_type": "M"
+            }
+        },
+        "01": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "HG4114",
+                "to_berth": "HG4110",
+                "route_type": "S"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "HG4116",
+                "to_berth": "HG4108",
+                "route_type": "S"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "HG4118",
+                "to_berth": "HG4108",
+                "route_type": "M"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "HG4130",
+                "to_berth": "HG4135",
+                "route_type": "M"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "HG4131",
+                "to_berth": "HG4122",
+                "route_type": "M"
+            }
+        },
+        "02": {
+            "0": {
+                "type": "SIG",
+                "berth": "HG4103",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "HG4105",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "HG4107",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "HG4108",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "HG4109",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "HG4111",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "HG4112",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "HG4113",
+                "set_state": "OFF"
+            }
+        },
+        "03": {
+            "0": {
+                "type": "SIG",
+                "berth": "HG4114",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "HG4116",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "HG4118",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "HG4119",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "HG4122",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "HG4123",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "HG4130",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "HG4131",
+                "set_state": "OFF"
+            }
+        },
+        "04": {
+            "0": {
+                "type": "SIG",
+                "berth": "HG4134",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "HG4135",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "HG4138",
+                "set_state": "OFF"
+            }
+        },
+        "07": {
+            "2": {
+                "type": "LXG",
+                "name": "Rigton",
+                "indication": "RAISED"
+            },
+            "3": {
+                "type": "LXG",
+                "name": "Rigton",
+                "indication": "LOWERED"
+            }
+        }
+    }
+}
