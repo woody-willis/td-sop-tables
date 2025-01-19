@@ -85,7 +85,9 @@
                                         },
                                         "berth": {
                                             "type": "string",
-                                            "title": "Berth ID"
+                                            "title": "Berth ID",
+                                            "description": "The first 2 characters are the area ID, the next 4 characters are the berth ID",
+                                            "pattern": "^[A-Z0-9]{2}[0-9]{4}$"
                                         },
                                         "set_state": {
                                             "type": "string",
@@ -114,11 +116,15 @@
                                         },
                                         "from_berth": {
                                             "type": "string",
-                                            "title": "From Berth ID"
+                                            "title": "From Berth ID",
+                                            "description": "The first 2 characters are the area ID, the next 4 characters are the berth ID",
+                                            "pattern": "^[A-Z0-9]{2}[0-9]{4}$"
                                         },
                                         "to_berth": {
                                             "type": "string",
-                                            "title": "To Berth ID"
+                                            "title": "To Berth ID",
+                                            "description": "The first 2 characters are the area ID, the next 4 characters are the berth ID",
+                                            "pattern": "^[A-Z0-9]{2}[0-9]{4}$"
                                         },
                                         "route_type": {
                                             "type": "string",
@@ -147,14 +153,16 @@
                                         },
                                         "berth": {
                                             "type": "string",
-                                            "title": "The berth the TRTS relates to"
+                                            "title": "The berth the TRTS relates to",
+                                            "description": "The first 2 characters are the area ID, the next 4 characters are the berth ID",
+                                            "pattern": "^[A-Z0-9]{2}[0-9]{4}$"
                                         }
                                     }
                                 },
                                 {
                                     "required": [
                                         "type",
-                                        "code",
+                                        "name",
                                         "indication"
                                     ],
                                     "properties": {
@@ -166,16 +174,16 @@
                                                 "LXG"
                                             ]
                                         },
-                                        "code": {
+                                        "name": {
                                             "type": "string",
-                                            "title": "Level Crossing Code"
+                                            "title": "Level Crossing Name"
                                         },
                                         "indication": {
                                             "type": "string",
                                             "title": "Indication",
                                             "enum": [
-                                                "UP",
-                                                "DOWN",
+                                                "RAISED",
+                                                "LOWERED",
                                                 "FAILED"
                                             ]
                                         }
