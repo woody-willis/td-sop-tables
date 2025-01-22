@@ -13,182 +13,182 @@
         "00": {
             "0": {
                 "type": "RTE",
-                "from_berth": "HG4109",
-                "to_berth": "HG4111",
+                "from_berth": "HGLH4109",
+                "to_berth": "HGLH4111",
                 "route_type": "M"
             },
             "1": {
                 "type": "RTE",
-                "from_berth": "HG4109",
-                "to_berth": "HG4111"
+                "from_berth": "HGLH4109",
+                "to_berth": "HGLH4111"
             },
             "2": {
                 "type": "RTE",
-                "from_berth": "HG4111",
-                "to_berth": "HG4114",
+                "from_berth": "HGLH4111",
+                "to_berth": "HGLH4114",
                 "route_type": "S"
             },
             "3": {
                 "type": "RTE",
-                "from_berth": "HG4111",
-                "to_berth": "HG4114",
+                "from_berth": "HGLH4111",
+                "to_berth": "HGLH4114",
                 "route_type": "M"
             },
             "4": {
                 "type": "RTE",
-                "from_berth": "HG4112",
-                "to_berth": "HG4114",
+                "from_berth": "HGLH4112",
+                "to_berth": "HGLH4114",
                 "route_type": "S"
             },
             "5": {
                 "type": "RTE",
-                "from_berth": "HG4113",
-                "to_berth": "HG4114",
+                "from_berth": "HGLH4113",
+                "to_berth": "HGLH4114",
                 "route_type": "S"
             },
             "6": {
                 "type": "RTE",
-                "from_berth": "HG4113",
-                "to_berth": "HG4119",
+                "from_berth": "HGLH4113",
+                "to_berth": "HGLH4119",
                 "route_type": "M"
             },
             "7": {
                 "type": "RTE",
-                "from_berth": "HG4114",
-                "to_berth": "HG4108",
+                "from_berth": "HGLH4114",
+                "to_berth": "HGLH4108",
                 "route_type": "M"
             }
         },
         "01": {
             "0": {
                 "type": "RTE",
-                "from_berth": "HG4114",
-                "to_berth": "HG4110",
+                "from_berth": "HGLH4114",
+                "to_berth": "HGLH4110",
                 "route_type": "S"
             },
             "2": {
                 "type": "RTE",
-                "from_berth": "HG4116",
-                "to_berth": "HG4108",
+                "from_berth": "HGLH4116",
+                "to_berth": "HGLH4108",
                 "route_type": "S"
             },
             "3": {
                 "type": "RTE",
-                "from_berth": "HG4118",
-                "to_berth": "HG4108",
+                "from_berth": "HGLH4118",
+                "to_berth": "HGLH4108",
                 "route_type": "M"
             },
             "4": {
                 "type": "RTE",
-                "from_berth": "HG4130",
-                "to_berth": "HG4135",
+                "from_berth": "HGLH4130",
+                "to_berth": "HGLH4135",
                 "route_type": "M"
             },
             "5": {
                 "type": "RTE",
-                "from_berth": "HG4131",
-                "to_berth": "HG4122",
+                "from_berth": "HGLH4131",
+                "to_berth": "HGLH4122",
                 "route_type": "M"
             }
         },
         "02": {
             "0": {
                 "type": "SIG",
-                "berth": "HG4103",
+                "berth": "HGLH4103",
                 "set_state": "OFF"
             },
             "1": {
                 "type": "SIG",
-                "berth": "HG4105",
+                "berth": "HGLH4105",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "HG4107",
+                "berth": "HGLH4107",
                 "set_state": "OFF"
             },
             "3": {
                 "type": "SIG",
-                "berth": "HG4108",
+                "berth": "HGLH4108",
                 "set_state": "OFF"
             },
             "4": {
                 "type": "SIG",
-                "berth": "HG4109",
+                "berth": "HGLH4109",
                 "set_state": "OFF"
             },
             "5": {
                 "type": "SIG",
-                "berth": "HG4111",
+                "berth": "HGLH4111",
                 "set_state": "OFF"
             },
             "6": {
                 "type": "SIG",
-                "berth": "HG4112",
+                "berth": "HGLH4112",
                 "set_state": "OFF"
             },
             "7": {
                 "type": "SIG",
-                "berth": "HG4113",
+                "berth": "HGLH4113",
                 "set_state": "OFF"
             }
         },
         "03": {
             "0": {
                 "type": "SIG",
-                "berth": "HG4114",
+                "berth": "HGLH4114",
                 "set_state": "OFF"
             },
             "1": {
                 "type": "SIG",
-                "berth": "HG4116",
+                "berth": "HGLH4116",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "HG4118",
+                "berth": "HGLH4118",
                 "set_state": "OFF"
             },
             "3": {
                 "type": "SIG",
-                "berth": "HG4119",
+                "berth": "HGLH4119",
                 "set_state": "OFF"
             },
             "4": {
                 "type": "SIG",
-                "berth": "HG4122",
+                "berth": "HGLH4122",
                 "set_state": "OFF"
             },
             "5": {
                 "type": "SIG",
-                "berth": "HG4123",
+                "berth": "HGLH4123",
                 "set_state": "OFF"
             },
             "6": {
                 "type": "SIG",
-                "berth": "HG4130",
+                "berth": "HGLH4130",
                 "set_state": "OFF"
             },
             "7": {
                 "type": "SIG",
-                "berth": "HG4131",
+                "berth": "HGLH4131",
                 "set_state": "OFF"
             }
         },
         "04": {
             "0": {
                 "type": "SIG",
-                "berth": "HG4134",
+                "berth": "HGLH4134",
                 "set_state": "OFF"
             },
             "1": {
                 "type": "SIG",
-                "berth": "HG4135",
+                "berth": "HGLH4135",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "HG4138",
+                "berth": "HGLH4138",
                 "set_state": "OFF"
             }
         },
