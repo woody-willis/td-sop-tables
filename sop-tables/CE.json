@@ -1,0 +1,2628 @@
+{
+    "$schema": "https://raw.githubusercontent.com/woody-willis/td-sop-tables/refs/heads/main/schema.json",
+    "id": "CE",
+    "name": "Crewe PSB",
+    "topic": "TD_SUSS_SIG_AREA",
+    "indications": [
+        "RTE",
+        "SIG",
+        "TRS"
+    ],
+    "mappings": {
+        "00": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0101",
+                "to_berth": "0105"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0105",
+                "to_berth": "0157"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0105",
+                "to_berth": "0157"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0105",
+                "to_berth": "A130"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0105",
+                "to_berth": "A132"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0105",
+                "to_berth": "A134"
+            }
+        },
+        "01": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0105",
+                "to_berth": "0147"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0105",
+                "to_berth": "0110"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0105",
+                "to_berth": "A135"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0105",
+                "to_berth": "A137"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0105",
+                "to_berth": "A139"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0105",
+                "to_berth": "A118"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0105",
+                "to_berth": "A120"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0105",
+                "to_berth": "A149"
+            }
+        },
+        "02": {
+            "1": {
+                "type": "RTE",
+                "from_berth": "0105",
+                "to_berth": "0153"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0107",
+                "to_berth": "0157"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0107",
+                "to_berth": "0157"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0107",
+                "to_berth": "A130"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0107",
+                "to_berth": "A132"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0107",
+                "to_berth": "A134"
+            }
+        },
+        "03": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0107",
+                "to_berth": "0147"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0107",
+                "to_berth": "0110"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0107",
+                "to_berth": "A135"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0107",
+                "to_berth": "A137"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0107",
+                "to_berth": "A139"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0107",
+                "to_berth": "A118"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0107",
+                "to_berth": "A120"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0107",
+                "to_berth": "A149"
+            }
+        },
+        "04": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0107",
+                "to_berth": "0153"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0110",
+                "to_berth": "0198"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0110",
+                "to_berth": "0196"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0110",
+                "to_berth": "0104"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0110",
+                "to_berth": "0102"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0110",
+                "to_berth": "9030"
+            }
+        },
+        "05": {
+            "1": {
+                "type": "RTE",
+                "from_berth": "0112",
+                "to_berth": "0551"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0112",
+                "to_berth": "0198"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0112",
+                "to_berth": "0196"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0112",
+                "to_berth": "0104"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0112",
+                "to_berth": "0102"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0112",
+                "to_berth": "9030"
+            }
+        },
+        "06": {
+            "5": {
+                "type": "RTE",
+                "from_berth": "0114",
+                "to_berth": "0551"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0114",
+                "to_berth": "0198"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0114",
+                "to_berth": "0196"
+            }
+        },
+        "07": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0114",
+                "to_berth": "0104"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0114",
+                "to_berth": "0102"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0114",
+                "to_berth": "9030"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0115",
+                "to_berth": "A135"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0115",
+                "to_berth": "A137"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0115",
+                "to_berth": "A139"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0115",
+                "to_berth": "A120"
+            }
+        },
+        "08": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0115",
+                "to_berth": "A118"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0116",
+                "to_berth": "0551"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0116",
+                "to_berth": "0198"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0116",
+                "to_berth": "0196"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0116",
+                "to_berth": "0104"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0116",
+                "to_berth": "0102"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0116",
+                "to_berth": "9030"
+            }
+        },
+        "09": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0117",
+                "to_berth": "0157"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0117",
+                "to_berth": "0110"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0117",
+                "to_berth": "A135"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0117",
+                "to_berth": "A137"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0117",
+                "to_berth": "A139"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0117",
+                "to_berth": "A118"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0117",
+                "to_berth": "A120"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0117",
+                "to_berth": "A149"
+            }
+        },
+        "0A": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0117",
+                "to_berth": "0153"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "A118",
+                "to_berth": "9032"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "A118",
+                "to_berth": "0551"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "A118",
+                "to_berth": "0198"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "A118",
+                "to_berth": "0196"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "A118",
+                "to_berth": "0104"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "A118",
+                "to_berth": "0102"
+            }
+        },
+        "0B": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "A118",
+                "to_berth": "9030"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0119",
+                "to_berth": "0157"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0119",
+                "to_berth": "A130"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0119",
+                "to_berth": "A132"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0119",
+                "to_berth": "A134"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0119",
+                "to_berth": "0147"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0119",
+                "to_berth": "0110"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0119",
+                "to_berth": "A135"
+            }
+        },
+        "0C": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0119",
+                "to_berth": "A137"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0119",
+                "to_berth": "A139"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0119",
+                "to_berth": "A118"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0119",
+                "to_berth": "A120"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0119",
+                "to_berth": "A149"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0119",
+                "to_berth": "0153"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0119",
+                "to_berth": "0155"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "A120",
+                "to_berth": "9032"
+            }
+        },
+        "0D": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "A120",
+                "to_berth": "0551"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "A120",
+                "to_berth": "0198"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "A120",
+                "to_berth": "0196"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "A120",
+                "to_berth": "0104"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "A120",
+                "to_berth": "0102"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "A120",
+                "to_berth": "9030"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0121",
+                "to_berth": "0157"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0121",
+                "to_berth": "A130"
+            }
+        },
+        "0E": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0121",
+                "to_berth": "A132"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0121",
+                "to_berth": "A134"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0121",
+                "to_berth": "0147"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0121",
+                "to_berth": "0110"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0121",
+                "to_berth": "A135"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0121",
+                "to_berth": "A137"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0121",
+                "to_berth": "A139"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0121",
+                "to_berth": "A118"
+            }
+        },
+        "0F": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0121",
+                "to_berth": "A120"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0121",
+                "to_berth": "A149"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0121",
+                "to_berth": "0153"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0121",
+                "to_berth": "0155"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0122",
+                "to_berth": "0198"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0122",
+                "to_berth": "0196"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0122",
+                "to_berth": "0104"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0122",
+                "to_berth": "0102"
+            }
+        },
+        "10": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0122",
+                "to_berth": "9030"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0124",
+                "to_berth": "9030"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0124",
+                "to_berth": "0198"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0124",
+                "to_berth": "0196"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0124",
+                "to_berth": "0104"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0124",
+                "to_berth": "0102"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0124",
+                "to_berth": "0102"
+            }
+        },
+        "11": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0126",
+                "to_berth": "9030"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0126",
+                "to_berth": "0198"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0126",
+                "to_berth": "0196"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0126",
+                "to_berth": "0104"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0126",
+                "to_berth": "0102"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "A128",
+                "to_berth": "9030"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "A128",
+                "to_berth": "0198"
+            }
+        },
+        "12": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "A128",
+                "to_berth": "0196"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "A128",
+                "to_berth": "0104"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "A128",
+                "to_berth": "0102"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "A128",
+                "to_berth": "0102"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "A130",
+                "to_berth": "0198"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "A130",
+                "to_berth": "0196"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "A130",
+                "to_berth": "0104"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "A130",
+                "to_berth": "0102"
+            }
+        },
+        "13": {
+            "2": {
+                "type": "RTE",
+                "from_berth": "A132",
+                "to_berth": "0198"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "A132",
+                "to_berth": "0196"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "A132",
+                "to_berth": "0104"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "A132",
+                "to_berth": "0102"
+            }
+        },
+        "14": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "A134",
+                "to_berth": "0198"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "A134",
+                "to_berth": "0196"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "A134",
+                "to_berth": "0104"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "A134",
+                "to_berth": "0102"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "A135",
+                "to_berth": "0161"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "A135",
+                "to_berth": "0142"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "A135",
+                "to_berth": "CYDS"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "A135",
+                "to_berth": "CYDF"
+            }
+        },
+        "15": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "A135",
+                "to_berth": "0144"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "A135",
+                "to_berth": "0146"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "A136",
+                "to_berth": "0198"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "A136",
+                "to_berth": "0196"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "A136",
+                "to_berth": "0104"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "A136",
+                "to_berth": "0102"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "A137",
+                "to_berth": "0161"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "A137",
+                "to_berth": "0142"
+            }
+        },
+        "16": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "A137",
+                "to_berth": "CYDS"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "A137",
+                "to_berth": "CYDF"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "A137",
+                "to_berth": "0144"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "A137",
+                "to_berth": "0146"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "A139",
+                "to_berth": "0161"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "A139",
+                "to_berth": "0142"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "A139",
+                "to_berth": "CYDS"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "A139",
+                "to_berth": "CYDF"
+            }
+        },
+        "17": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "A139",
+                "to_berth": "0144"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "A139",
+                "to_berth": "0146"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "A141",
+                "to_berth": "0161"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "A141",
+                "to_berth": "0142"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "A141",
+                "to_berth": "CYDS"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "A141",
+                "to_berth": "CYDF"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "A141",
+                "to_berth": "0144"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "A141",
+                "to_berth": "0146"
+            }
+        },
+        "18": {
+            "1": {
+                "type": "RTE",
+                "from_berth": "0142",
+                "to_berth": "0122"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0142",
+                "to_berth": "A143"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0142",
+                "to_berth": "A141"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0142",
+                "to_berth": "0116"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0142",
+                "to_berth": "0114"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0142",
+                "to_berth": "0112"
+            }
+        },
+        "19": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0142",
+                "to_berth": "A133"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0142",
+                "to_berth": "UCLS"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "A143",
+                "to_berth": "0161"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "A143",
+                "to_berth": "0142"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0144",
+                "to_berth": "0116"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0144",
+                "to_berth": "0114"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0144",
+                "to_berth": "A561"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0144",
+                "to_berth": "0112"
+            }
+        },
+        "1A": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0144",
+                "to_berth": "A136"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0144",
+                "to_berth": "A128"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0144",
+                "to_berth": "0126"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0144",
+                "to_berth": "0124"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0144",
+                "to_berth": "0124"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0144",
+                "to_berth": "0122"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0144",
+                "to_berth": "0122"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0144",
+                "to_berth": "0122"
+            }
+        },
+        "1B": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0144",
+                "to_berth": "A141"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0146",
+                "to_berth": "0116"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0146",
+                "to_berth": "0114"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0146",
+                "to_berth": "A561"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0146",
+                "to_berth": "0112"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0146",
+                "to_berth": "A136"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0146",
+                "to_berth": "A128"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0146",
+                "to_berth": "0126"
+            }
+        },
+        "1C": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0146",
+                "to_berth": "0124"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0146",
+                "to_berth": "0124"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0146",
+                "to_berth": "0122"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0146",
+                "to_berth": "0122"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0146",
+                "to_berth": "0122"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0146",
+                "to_berth": "A141"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0147",
+                "to_berth": "0159"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0148",
+                "to_berth": "0126"
+            }
+        },
+        "1D": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0148",
+                "to_berth": "0124"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0148",
+                "to_berth": "0122"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "A149",
+                "to_berth": "0151"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "A149",
+                "to_berth": "CYDF"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "A149",
+                "to_berth": "0144"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "A149",
+                "to_berth": "0146"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "A149",
+                "to_berth": "MSDW"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0150",
+                "to_berth": "A136"
+            }
+        },
+        "1E": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0150",
+                "to_berth": "A128"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0151",
+                "to_berth": "0161"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0151",
+                "to_berth": "0142"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0151",
+                "to_berth": "CYDS"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0151",
+                "to_berth": "CYDF"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0151",
+                "to_berth": "0144"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0151",
+                "to_berth": "0146"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0152",
+                "to_berth": "A136"
+            }
+        },
+        "1F": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0152",
+                "to_berth": "A128"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0153",
+                "to_berth": "CYDS"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0153",
+                "to_berth": "CYDF"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0153",
+                "to_berth": "0144"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0153",
+                "to_berth": "0146"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0153",
+                "to_berth": "MSDW"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "A154",
+                "to_berth": "0152"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "A154",
+                "to_berth": "0150"
+            }
+        },
+        "20": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "A154",
+                "to_berth": "0148"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0155",
+                "to_berth": "CYDS"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0155",
+                "to_berth": "CYDF"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0155",
+                "to_berth": "0144"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0155",
+                "to_berth": "0146"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0155",
+                "to_berth": "MSDW"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0157",
+                "to_berth": "CYDS"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0157",
+                "to_berth": "CYDF"
+            }
+        },
+        "21": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0157",
+                "to_berth": "0144"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0157",
+                "to_berth": "0146"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0157",
+                "to_berth": "MSDW"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0157",
+                "to_berth": "0152"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0159",
+                "to_berth": "CYDS"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0159",
+                "to_berth": "CYDF"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0159",
+                "to_berth": "0144"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0159",
+                "to_berth": "0146"
+            }
+        },
+        "22": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0159",
+                "to_berth": "MSDW"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0159",
+                "to_berth": "0152"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0161",
+                "to_berth": "SWDC"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0162",
+                "to_berth": "0142"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0164",
+                "to_berth": "0162"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "A175",
+                "to_berth": "0183"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "A175",
+                "to_berth": "0179"
+            }
+        },
+        "23": {
+            "2": {
+                "type": "RTE",
+                "from_berth": "0178",
+                "to_berth": "COUT"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0179",
+                "to_berth": "0181"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0181",
+                "to_berth": "0185"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0183",
+                "to_berth": "0185"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0185",
+                "to_berth": "0189"
+            }
+        },
+        "24": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0186",
+                "to_berth": "0184"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0189",
+                "to_berth": "0191"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0190",
+                "to_berth": "0186"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0193",
+                "to_berth": "0119"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0193",
+                "to_berth": "0121"
+            }
+        },
+        "25": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0196",
+                "to_berth": "0192"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0198",
+                "to_berth": "0192"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0524",
+                "to_berth": "0178"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0524",
+                "to_berth": "COUT"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0531",
+                "to_berth": "0110"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0531",
+                "to_berth": "0553"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0531",
+                "to_berth": "A149"
+            }
+        },
+        "26": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0531",
+                "to_berth": "0153"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0531",
+                "to_berth": "0155"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0531",
+                "to_berth": "0157"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0535",
+                "to_berth": "0545"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0537",
+                "to_berth": "0545"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0539",
+                "to_berth": "0555"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0543",
+                "to_berth": "0110"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0543",
+                "to_berth": "0553"
+            }
+        },
+        "27": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0543",
+                "to_berth": "A149"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0543",
+                "to_berth": "0153"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0543",
+                "to_berth": "0155"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0543",
+                "to_berth": "0157"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0544",
+                "to_berth": "0551"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0545",
+                "to_berth": "0147"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0545",
+                "to_berth": "0110"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0545",
+                "to_berth": "0553"
+            }
+        },
+        "28": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0545",
+                "to_berth": "A149"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0545",
+                "to_berth": "0153"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0545",
+                "to_berth": "0155"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0545",
+                "to_berth": "0157"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0545",
+                "to_berth": "A130"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0545",
+                "to_berth": "A132"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0545",
+                "to_berth": "A134"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0545",
+                "to_berth": "0147"
+            }
+        },
+        "29": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0551",
+                "to_berth": "0553"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0553",
+                "to_berth": "A135"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0553",
+                "to_berth": "A137"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0553",
+                "to_berth": "A139"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0553",
+                "to_berth": "A118"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0553",
+                "to_berth": "A120"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0555",
+                "to_berth": "A130"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0555",
+                "to_berth": "A132"
+            }
+        },
+        "2A": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0555",
+                "to_berth": "A134"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0555",
+                "to_berth": "0147"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "A561",
+                "to_berth": "0161"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "A561",
+                "to_berth": "0142"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "A561",
+                "to_berth": "CYDS"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "A561",
+                "to_berth": "CYDF"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "A561",
+                "to_berth": "0144"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "A561",
+                "to_berth": "0146"
+            }
+        },
+        "2B": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0562",
+                "to_berth": "A141"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "0562",
+                "to_berth": "0116"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "0562",
+                "to_berth": "0114"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "0562",
+                "to_berth": "A561"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "0562",
+                "to_berth": "0112"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "0562",
+                "to_berth": "A133"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "0562",
+                "to_berth": "UCLS"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "0562",
+                "to_berth": "A131"
+            }
+        },
+        "2C": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "0566",
+                "to_berth": "A136"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "101",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "105",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "107",
+                "set_state": "OFF"
+            }
+        },
+        "2D": {
+            "0": {
+                "type": "SIG",
+                "berth": "110",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "112",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "113",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "114",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "115",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "116",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "117",
+                "set_state": "OFF"
+            }
+        },
+        "2E": {
+            "0": {
+                "type": "SIG",
+                "berth": "118",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "119",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "120",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "121",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "122",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "124",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "126",
+                "set_state": "OFF"
+            }
+        },
+        "2F": {
+            "0": {
+                "type": "SIG",
+                "berth": "128",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "130",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "131",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "132",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "133",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "134",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "135",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "136",
+                "set_state": "OFF"
+            }
+        },
+        "30": {
+            "0": {
+                "type": "SIG",
+                "berth": "137",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "139",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "141",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "142",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "143",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "144",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "146",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "147",
+                "set_state": "OFF"
+            }
+        },
+        "31": {
+            "0": {
+                "type": "SIG",
+                "berth": "148",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "149",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "150",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "151",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "152",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "153",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "154",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "155",
+                "set_state": "OFF"
+            }
+        },
+        "32": {
+            "0": {
+                "type": "SIG",
+                "berth": "157",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "159",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "161",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "162",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "164",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "175",
+                "set_state": "OFF"
+            }
+        },
+        "33": {
+            "0": {
+                "type": "SIG",
+                "berth": "178",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "179",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "181",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "183",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "184",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "185",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "186",
+                "set_state": "OFF"
+            }
+        },
+        "34": {
+            "1": {
+                "type": "SIG",
+                "berth": "189",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "190",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "193",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "196",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "198",
+                "set_state": "OFF"
+            }
+        },
+        "35": {
+            "1": {
+                "type": "SIG",
+                "berth": "524",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "531",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "535",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "537",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "539",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "543",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "544",
+                "set_state": "OFF"
+            }
+        },
+        "36": {
+            "0": {
+                "type": "SIG",
+                "berth": "545",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "551",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "553",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "555",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "561",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "562",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "566",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "570",
+                "set_state": "OFF"
+            }
+        },
+        "3A": {
+            "6": {
+                "type": "TRS",
+                "platform": "1",
+                "berth": "0147"
+            },
+            "7": {
+                "type": "TRS",
+                "platform": "1",
+                "berth": "A136"
+            }
+        },
+        "3B": {
+            "0": {
+                "type": "TRS",
+                "platform": "2"
+            },
+            "1": {
+                "type": "TRS",
+                "platform": "3"
+            },
+            "2": {
+                "type": "TRS",
+                "platform": "4"
+            },
+            "3": {
+                "type": "TRS",
+                "platform": "5",
+                "berth": "0157"
+            },
+            "4": {
+                "type": "TRS",
+                "platform": "5",
+                "berth": "A128"
+            },
+            "5": {
+                "type": "TRS",
+                "platform": "6",
+                "berth": "0151"
+            },
+            "6": {
+                "type": "TRS",
+                "platform": "6",
+                "berth": "A149"
+            },
+            "7": {
+                "type": "TRS",
+                "platform": "6",
+                "berth": "0122"
+            }
+        },
+        "3C": {
+            "0": {
+                "type": "TRS",
+                "platform": "7"
+            },
+            "1": {
+                "type": "TRS",
+                "platform": "8"
+            },
+            "2": {
+                "type": "TRS",
+                "platform": "9"
+            },
+            "3": {
+                "type": "TRS",
+                "platform": "10"
+            },
+            "4": {
+                "type": "TRS",
+                "platform": "11",
+                "berth": "A139"
+            },
+            "5": {
+                "type": "TRS",
+                "platform": "11",
+                "berth": "0116"
+            },
+            "6": {
+                "type": "TRS",
+                "platform": "12",
+                "berth": "A135"
+            },
+            "7": {
+                "type": "TRS",
+                "platform": "12",
+                "berth": "0112"
+            }
+        },
+        "3D": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "9001",
+                "to_berth": "9003"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "9002",
+                "to_berth": "COUT"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "9003",
+                "to_berth": "9019"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "9004",
+                "to_berth": "9002"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "9012",
+                "to_berth": "9004"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "9019",
+                "to_berth": "SG12"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "9019",
+                "to_berth": "0115"
+            }
+        },
+        "3E": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "9019",
+                "to_berth": "0117"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "9019",
+                "to_berth": "NH17"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "9026",
+                "to_berth": "9012"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "9030",
+                "to_berth": "9012"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "9034",
+                "to_berth": "9012"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "9003",
+                "to_berth": "9009"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "9005",
+                "to_berth": "9011"
+            }
+        },
+        "3F": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "9005",
+                "to_berth": "9013"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "9006",
+                "to_berth": "9007"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "9006",
+                "to_berth": "9004"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "9007",
+                "to_berth": "9013"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "9008",
+                "to_berth": "9009"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "9009",
+                "to_berth": "9010"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "9009",
+                "to_berth": "9015"
+            }
+        },
+        "40": {
+            "2": {
+                "type": "RTE",
+                "from_berth": "9011",
+                "to_berth": "9023"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "9012",
+                "to_berth": "9006"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "9013",
+                "to_berth": "9023"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "9014",
+                "to_berth": "9008"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "9014",
+                "to_berth": "9008"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "9014",
+                "to_berth": "9010"
+            }
+        },
+        "41": {
+            "1": {
+                "type": "RTE",
+                "from_berth": "9015",
+                "to_berth": "9021"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "9019",
+                "to_berth": "9031"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "9020",
+                "to_berth": "9025"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "9021",
+                "to_berth": "9018"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "9021",
+                "to_berth": "SG12"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "9021",
+                "to_berth": "9031"
+            }
+        },
+        "42": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "9021",
+                "to_berth": "0115"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "9021",
+                "to_berth": "0117"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "9021",
+                "to_berth": "NH17"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "9022",
+                "to_berth": "9025"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "9022",
+                "to_berth": "9012"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "9023",
+                "to_berth": "SG12"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "9023",
+                "to_berth": "9031"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "9023",
+                "to_berth": "0115"
+            }
+        },
+        "43": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "9023",
+                "to_berth": "0117"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "9023",
+                "to_berth": "NH17"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "9023",
+                "to_berth": "NH18"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "9023",
+                "to_berth": "9022"
+            },
+            "4": {
+                "type": "RTE",
+                "from_berth": "9025",
+                "to_berth": "9022"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "9025",
+                "to_berth": "9020"
+            }
+        },
+        "44": {
+            "0": {
+                "type": "RTE",
+                "from_berth": "9026",
+                "to_berth": "9014"
+            },
+            "1": {
+                "type": "RTE",
+                "from_berth": "9030",
+                "to_berth": "9014"
+            },
+            "2": {
+                "type": "RTE",
+                "from_berth": "9031",
+                "to_berth": "9042"
+            },
+            "3": {
+                "type": "RTE",
+                "from_berth": "9031",
+                "to_berth": "0113"
+            },
+            "5": {
+                "type": "RTE",
+                "from_berth": "9032",
+                "to_berth": "9012"
+            },
+            "6": {
+                "type": "RTE",
+                "from_berth": "9032",
+                "to_berth": "9014"
+            },
+            "7": {
+                "type": "RTE",
+                "from_berth": "9042",
+                "to_berth": "9032"
+            }
+        },
+        "46": {
+            "0": {
+                "type": "SIG",
+                "berth": "9001",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "9002",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "9003",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "9004",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "9012",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "9019",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "9026",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "9030",
+                "set_state": "OFF"
+            }
+        },
+        "47": {
+            "0": {
+                "type": "SIG",
+                "berth": "9034",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "9005",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "9006",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "9007",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "9008",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "9009",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "9010",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "9011",
+                "set_state": "OFF"
+            }
+        },
+        "48": {
+            "0": {
+                "type": "SIG",
+                "berth": "9013",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "9014",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "9015",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "9018",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "9020",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "9021",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "9022",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "9023",
+                "set_state": "OFF"
+            }
+        },
+        "49": {
+            "0": {
+                "type": "SIG",
+                "berth": "9025",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "9031",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "9032",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "9042",
+                "set_state": "OFF"
+            }
+        },
+        "4A": {
+            "1": {
+                "type": "SIG",
+                "berth": "SG12",
+                "set_state": "OFF"
+            }
+        }
+    }
+}
