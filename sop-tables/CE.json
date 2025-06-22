@@ -1705,392 +1705,392 @@
             },
             "5": {
                 "type": "SIG",
-                "berth": "101",
+                "berth": "0101",
                 "set_state": "OFF"
             },
             "6": {
                 "type": "SIG",
-                "berth": "105",
+                "berth": "0105",
                 "set_state": "OFF"
             },
             "7": {
                 "type": "SIG",
-                "berth": "107",
+                "berth": "0107",
                 "set_state": "OFF"
             }
         },
         "2D": {
             "0": {
                 "type": "SIG",
-                "berth": "110",
+                "berth": "0110",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "112",
+                "berth": "0112",
                 "set_state": "OFF"
             },
             "3": {
                 "type": "SIG",
-                "berth": "113",
+                "berth": "0113",
                 "set_state": "OFF"
             },
             "4": {
                 "type": "SIG",
-                "berth": "114",
+                "berth": "0114",
                 "set_state": "OFF"
             },
             "5": {
                 "type": "SIG",
-                "berth": "115",
+                "berth": "0115",
                 "set_state": "OFF"
             },
             "6": {
                 "type": "SIG",
-                "berth": "116",
+                "berth": "0116",
                 "set_state": "OFF"
             },
             "7": {
                 "type": "SIG",
-                "berth": "117",
+                "berth": "0117",
                 "set_state": "OFF"
             }
         },
         "2E": {
             "0": {
                 "type": "SIG",
-                "berth": "118",
+                "berth": "0118",
                 "set_state": "OFF"
             },
             "1": {
                 "type": "SIG",
-                "berth": "119",
+                "berth": "0119",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "120",
+                "berth": "0120",
                 "set_state": "OFF"
             },
             "3": {
                 "type": "SIG",
-                "berth": "121",
+                "berth": "0121",
                 "set_state": "OFF"
             },
             "4": {
                 "type": "SIG",
-                "berth": "122",
+                "berth": "0122",
                 "set_state": "OFF"
             },
             "5": {
                 "type": "SIG",
-                "berth": "124",
+                "berth": "0124",
                 "set_state": "OFF"
             },
             "7": {
                 "type": "SIG",
-                "berth": "126",
+                "berth": "0126",
                 "set_state": "OFF"
             }
         },
         "2F": {
             "0": {
                 "type": "SIG",
-                "berth": "128",
+                "berth": "0128",
                 "set_state": "OFF"
             },
             "1": {
                 "type": "SIG",
-                "berth": "130",
+                "berth": "0130",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "131",
+                "berth": "0131",
                 "set_state": "OFF"
             },
             "3": {
                 "type": "SIG",
-                "berth": "132",
+                "berth": "0132",
                 "set_state": "OFF"
             },
             "4": {
                 "type": "SIG",
-                "berth": "133",
+                "berth": "0133",
                 "set_state": "OFF"
             },
             "5": {
                 "type": "SIG",
-                "berth": "134",
+                "berth": "0134",
                 "set_state": "OFF"
             },
             "6": {
                 "type": "SIG",
-                "berth": "135",
+                "berth": "0135",
                 "set_state": "OFF"
             },
             "7": {
                 "type": "SIG",
-                "berth": "136",
+                "berth": "0136",
                 "set_state": "OFF"
             }
         },
         "30": {
             "0": {
                 "type": "SIG",
-                "berth": "137",
+                "berth": "0137",
                 "set_state": "OFF"
             },
             "1": {
                 "type": "SIG",
-                "berth": "139",
+                "berth": "0139",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "141",
+                "berth": "0141",
                 "set_state": "OFF"
             },
             "3": {
                 "type": "SIG",
-                "berth": "142",
+                "berth": "0142",
                 "set_state": "OFF"
             },
             "4": {
                 "type": "SIG",
-                "berth": "143",
+                "berth": "0143",
                 "set_state": "OFF"
             },
             "5": {
                 "type": "SIG",
-                "berth": "144",
+                "berth": "0144",
                 "set_state": "OFF"
             },
             "6": {
                 "type": "SIG",
-                "berth": "146",
+                "berth": "0146",
                 "set_state": "OFF"
             },
             "7": {
                 "type": "SIG",
-                "berth": "147",
+                "berth": "0147",
                 "set_state": "OFF"
             }
         },
         "31": {
             "0": {
                 "type": "SIG",
-                "berth": "148",
+                "berth": "0148",
                 "set_state": "OFF"
             },
             "1": {
                 "type": "SIG",
-                "berth": "149",
+                "berth": "0149",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "150",
+                "berth": "0150",
                 "set_state": "OFF"
             },
             "3": {
                 "type": "SIG",
-                "berth": "151",
+                "berth": "0151",
                 "set_state": "OFF"
             },
             "4": {
                 "type": "SIG",
-                "berth": "152",
+                "berth": "0152",
                 "set_state": "OFF"
             },
             "5": {
                 "type": "SIG",
-                "berth": "153",
+                "berth": "0153",
                 "set_state": "OFF"
             },
             "6": {
                 "type": "SIG",
-                "berth": "154",
+                "berth": "0154",
                 "set_state": "OFF"
             },
             "7": {
                 "type": "SIG",
-                "berth": "155",
+                "berth": "0155",
                 "set_state": "OFF"
             }
         },
         "32": {
             "0": {
                 "type": "SIG",
-                "berth": "157",
+                "berth": "0157",
                 "set_state": "OFF"
             },
             "1": {
                 "type": "SIG",
-                "berth": "159",
+                "berth": "0159",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "161",
+                "berth": "0161",
                 "set_state": "OFF"
             },
             "3": {
                 "type": "SIG",
-                "berth": "162",
+                "berth": "0162",
                 "set_state": "OFF"
             },
             "4": {
                 "type": "SIG",
-                "berth": "164",
+                "berth": "0164",
                 "set_state": "OFF"
             },
             "6": {
                 "type": "SIG",
-                "berth": "175",
+                "berth": "0175",
                 "set_state": "OFF"
             }
         },
         "33": {
             "0": {
                 "type": "SIG",
-                "berth": "178",
+                "berth": "0178",
                 "set_state": "OFF"
             },
             "1": {
                 "type": "SIG",
-                "berth": "179",
+                "berth": "0179",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "181",
+                "berth": "0181",
                 "set_state": "OFF"
             },
             "3": {
                 "type": "SIG",
-                "berth": "183",
+                "berth": "0183",
                 "set_state": "OFF"
             },
             "4": {
                 "type": "SIG",
-                "berth": "184",
+                "berth": "0184",
                 "set_state": "OFF"
             },
             "5": {
                 "type": "SIG",
-                "berth": "185",
+                "berth": "0185",
                 "set_state": "OFF"
             },
             "6": {
                 "type": "SIG",
-                "berth": "186",
+                "berth": "0186",
                 "set_state": "OFF"
             }
         },
         "34": {
             "1": {
                 "type": "SIG",
-                "berth": "189",
+                "berth": "0189",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "190",
+                "berth": "0190",
                 "set_state": "OFF"
             },
             "5": {
                 "type": "SIG",
-                "berth": "193",
+                "berth": "0193",
                 "set_state": "OFF"
             },
             "6": {
                 "type": "SIG",
-                "berth": "196",
+                "berth": "0196",
                 "set_state": "OFF"
             },
             "7": {
                 "type": "SIG",
-                "berth": "198",
+                "berth": "0198",
                 "set_state": "OFF"
             }
         },
         "35": {
             "1": {
                 "type": "SIG",
-                "berth": "524",
+                "berth": "0524",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "531",
+                "berth": "0531",
                 "set_state": "OFF"
             },
             "3": {
                 "type": "SIG",
-                "berth": "535",
+                "berth": "0535",
                 "set_state": "OFF"
             },
             "4": {
                 "type": "SIG",
-                "berth": "537",
+                "berth": "0537",
                 "set_state": "OFF"
             },
             "5": {
                 "type": "SIG",
-                "berth": "539",
+                "berth": "0539",
                 "set_state": "OFF"
             },
             "6": {
                 "type": "SIG",
-                "berth": "543",
+                "berth": "0543",
                 "set_state": "OFF"
             },
             "7": {
                 "type": "SIG",
-                "berth": "544",
+                "berth": "0544",
                 "set_state": "OFF"
             }
         },
         "36": {
             "0": {
                 "type": "SIG",
-                "berth": "545",
+                "berth": "0545",
                 "set_state": "OFF"
             },
             "1": {
                 "type": "SIG",
-                "berth": "551",
+                "berth": "0551",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "553",
+                "berth": "0553",
                 "set_state": "OFF"
             },
             "3": {
                 "type": "SIG",
-                "berth": "555",
+                "berth": "0555",
                 "set_state": "OFF"
             },
             "4": {
                 "type": "SIG",
-                "berth": "561",
+                "berth": "0561",
                 "set_state": "OFF"
             },
             "5": {
                 "type": "SIG",
-                "berth": "562",
+                "berth": "0562",
                 "set_state": "OFF"
             },
             "6": {
                 "type": "SIG",
-                "berth": "566",
+                "berth": "0566",
                 "set_state": "OFF"
             },
             "7": {
                 "type": "SIG",
-                "berth": "570",
+                "berth": "0570",
                 "set_state": "OFF"
             }
         },
@@ -2109,15 +2109,18 @@
         "3B": {
             "0": {
                 "type": "TRS",
-                "platform": "2"
+                "platform": "2",
+                "berth": "A134"
             },
             "1": {
                 "type": "TRS",
-                "platform": "3"
+                "platform": "3",
+                "berth": "A132"
             },
             "2": {
                 "type": "TRS",
-                "platform": "4"
+                "platform": "4",
+                "berth": "A130"
             },
             "3": {
                 "type": "TRS",
@@ -2148,19 +2151,23 @@
         "3C": {
             "0": {
                 "type": "TRS",
-                "platform": "7"
+                "platform": "7",
+                "berth": "A120"
             },
             "1": {
                 "type": "TRS",
-                "platform": "8"
+                "platform": "8",
+                "berth": "A118"
             },
             "2": {
                 "type": "TRS",
-                "platform": "9"
+                "platform": "9",
+                "berth": "A143"
             },
             "3": {
                 "type": "TRS",
-                "platform": "10"
+                "platform": "10",
+                "berth": "A141"
             },
             "4": {
                 "type": "TRS",
