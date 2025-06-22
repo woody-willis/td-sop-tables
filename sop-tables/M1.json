@@ -11,252 +11,252 @@
         "00": {
             "0": {
                 "type": "SIG",
-                "berth": "M1LL1577",
+                "berth": "1577",
                 "set_state": "OFF"
             },
             "1": {
                 "type": "SIG",
-                "berth": "M1LL3572",
+                "berth": "3572",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "M1LL3573",
+                "berth": "3573",
                 "set_state": "OFF"
             },
             "3": {
                 "type": "SIG",
-                "berth": "M1LL3574",
+                "berth": "3574",
                 "set_state": "OFF"
             },
             "4": {
                 "type": "SIG",
-                "berth": "M1LL3575",
+                "berth": "3575",
                 "set_state": "OFF"
             },
             "5": {
                 "type": "SIG",
-                "berth": "M1LL3576",
+                "berth": "3576",
                 "set_state": "OFF"
             },
             "6": {
                 "type": "SIG",
-                "berth": "M1LL3577",
+                "berth": "3577",
                 "set_state": "OFF"
             },
             "7": {
                 "type": "SIG",
-                "berth": "M1LL3578",
+                "berth": "3578",
                 "set_state": "OFF"
             }
         },
         "01": {
             "0": {
                 "type": "SIG",
-                "berth": "M1LL3579",
+                "berth": "3579",
                 "set_state": "OFF"
             },
             "1": {
                 "type": "SIG",
-                "berth": "M1LL3580",
+                "berth": "3580",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "M1LL3581",
+                "berth": "3581",
                 "set_state": "OFF"
             },
             "3": {
                 "type": "SIG",
-                "berth": "M1LL3582",
+                "berth": "3582",
                 "set_state": "OFF"
             },
             "4": {
                 "type": "SIG",
-                "berth": "M1LL3584",
+                "berth": "3584",
                 "set_state": "OFF"
             },
             "5": {
                 "type": "SIG",
-                "berth": "M1LL3585",
+                "berth": "3585",
                 "set_state": "OFF"
             },
             "6": {
                 "type": "SIG",
-                "berth": "M1LL3586",
+                "berth": "3586",
                 "set_state": "OFF"
             },
             "7": {
                 "type": "SIG",
-                "berth": "M1LL3587",
+                "berth": "3587",
                 "set_state": "OFF"
             }
         },
         "02": {
             "0": {
                 "type": "SIG",
-                "berth": "M1LL3590",
+                "berth": "3590",
                 "set_state": "OFF"
             },
             "1": {
                 "type": "SIG",
-                "berth": "M1LL3591",
+                "berth": "3591",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "M1LL3592",
+                "berth": "3592",
                 "set_state": "OFF"
             },
             "3": {
                 "type": "SIG",
-                "berth": "M1LL3593",
+                "berth": "3593",
                 "set_state": "OFF"
             },
             "4": {
                 "type": "SIG",
-                "berth": "M1LL3739",
+                "berth": "3739",
                 "set_state": "OFF"
             },
             "5": {
                 "type": "SIG",
-                "berth": "M1LL3745",
+                "berth": "3745",
                 "set_state": "OFF"
             },
             "6": {
                 "type": "SIG",
-                "berth": "M1LL3746",
+                "berth": "3746",
                 "set_state": "OFF"
             },
             "7": {
                 "type": "SIG",
-                "berth": "M1LL3749",
+                "berth": "3749",
                 "set_state": "OFF"
             }
         },
         "03": {
             "0": {
                 "type": "SIG",
-                "berth": "M1LL3750",
+                "berth": "3750",
                 "set_state": "OFF"
             },
             "1": {
                 "type": "SIG",
-                "berth": "M1LL3754",
+                "berth": "3754",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "M1LL3755",
+                "berth": "3755",
                 "set_state": "OFF"
             },
             "3": {
                 "type": "SIG",
-                "berth": "M1LL5579",
+                "berth": "5579",
                 "set_state": "OFF"
             },
             "4": {
                 "type": "SIG",
-                "berth": "M1LL5583",
+                "berth": "5583",
                 "set_state": "OFF"
             },
             "5": {
                 "type": "SIG",
-                "berth": "M1LL9588",
+                "berth": "9588",
                 "set_state": "OFF"
             },
             "7": {
                 "type": "SIG",
-                "berth": "M1LL5580",
+                "berth": "5580",
                 "set_state": "OFF"
             }
         },
         "04": {
             "0": {
                 "type": "SIG",
-                "berth": "M1LL5582",
+                "berth": "5582",
                 "set_state": "OFF"
             }
         },
         "05": {
             "0": {
                 "type": "RTE",
-                "from_berth": "M1LL3572",
+                "from_berth": "3572",
                 "to_berth": "WAWN0589"
             },
             "1": {
                 "type": "RTE",
-                "from_berth": "M1LL3573",
-                "to_berth": "M1LL5375"
+                "from_berth": "3573",
+                "to_berth": "5375"
             },
             "2": {
                 "type": "RTE",
-                "from_berth": "M1LL3585",
-                "to_berth": "M1LL3587"
+                "from_berth": "3585",
+                "to_berth": "3587"
             },
             "3": {
                 "type": "RTE",
-                "from_berth": "M1LL3585",
-                "to_berth": "M1LL5579"
+                "from_berth": "3585",
+                "to_berth": "5579"
             },
             "7": {
                 "type": "RTE",
-                "from_berth": "M1LL3591",
-                "to_berth": "M1LL3593"
+                "from_berth": "3591",
+                "to_berth": "3593"
             }
         },
         "06": {
             "1": {
                 "type": "RTE",
-                "from_berth": "M1LL3755",
-                "to_berth": "M1LL5579"
+                "from_berth": "3755",
+                "to_berth": "5579"
             },
             "2": {
                 "type": "RTE",
-                "from_berth": "M1LL3755",
-                "to_berth": "M1LL9593"
+                "from_berth": "3755",
+                "to_berth": "9593"
             },
             "3": {
                 "type": "RTE",
-                "from_berth": "M1LL5583",
-                "to_berth": "M1LL3593"
+                "from_berth": "5583",
+                "to_berth": "3593"
             },
             "4": {
                 "type": "RTE",
-                "from_berth": "M1LL9588",
-                "to_berth": "M1LL3584"
+                "from_berth": "9588",
+                "to_berth": "3584"
             },
             "5": {
                 "type": "RTE",
-                "from_berth": "M1LL3586",
-                "to_berth": "M1LL3584"
+                "from_berth": "3586",
+                "to_berth": "3584"
             },
             "6": {
                 "type": "RTE",
-                "from_berth": "M1LL3592",
-                "to_berth": "M1LL5582"
+                "from_berth": "3592",
+                "to_berth": "5582"
             },
             "7": {
                 "type": "RTE",
-                "from_berth": "M1LL3592",
-                "to_berth": "M1LL3590"
+                "from_berth": "3592",
+                "to_berth": "3590"
             }
         },
         "07": {
             "0": {
                 "type": "RTE",
-                "from_berth": "M1LL5580",
-                "to_berth": "M1LL3574"
+                "from_berth": "5580",
+                "to_berth": "3574"
             },
             "1": {
                 "type": "RTE",
-                "from_berth": "M1LL5580",
-                "to_berth": "M1LL3584"
+                "from_berth": "5580",
+                "to_berth": "3584"
             },
             "2": {
                 "type": "RTE",
-                "from_berth": "M1LL5582",
-                "to_berth": "M1LL5580"
+                "from_berth": "5582",
+                "to_berth": "5580"
             }
         }
     }
