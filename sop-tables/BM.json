@@ -10,8 +10,8 @@
         "LXG"
     ],
     "mappings": {
-        "BH": {
-            "B": {
+        "00": {
+            "0": {
                 "type": "SIG",
                 "berth": "BH74",
                 "set_state": "OFF"
@@ -52,7 +52,7 @@
                 "set_state": "OFF"
             }
         },
-        "B1": {
+        "01": {
             "1": {
                 "type": "SIG",
                 "berth": "BH81",
@@ -89,7 +89,7 @@
                 "set_state": "OFF"
             }
         },
-        "B2": {
+        "02": {
             "1": {
                 "type": "SIG",
                 "berth": "BH72",
@@ -101,8 +101,8 @@
                 "set_state": "OFF"
             }
         },
-        "B3": {
-            "B": {
+        "03": {
+            "0": {
                 "type": "RTE",
                 "from_berth": "BH40",
                 "to_berth": "BH76",
@@ -147,8 +147,8 @@
                 "to_berth": "BH74"
             }
         },
-        "B4": {
-            "B": {
+        "04": {
+            "0": {
                 "type": "RTE",
                 "from_berth": "BH78",
                 "to_berth": "BH76",
@@ -186,8 +186,8 @@
                 "to_berth": "BH77"
             }
         },
-        "B5": {
-            "B": {
+        "05": {
+            "0": {
                 "type": "RTE",
                 "from_berth": "B115",
                 "to_berth": "BH77"
@@ -222,8 +222,8 @@
                 "route_type": "M"
             }
         },
-        "B6": {
-            "B": {
+        "06": {
+            "0": {
                 "type": "RTE",
                 "from_berth": "B140",
                 "to_berth": "BH20"
@@ -259,11 +259,37 @@
                 "to_berth": "BH39"
             }
         },
-        "B7": {
-            "B": {
+        "07": {
+            "0": {
                 "type": "RTE",
                 "from_berth": "B140",
                 "to_berth": "BH38"
+            }
+        },
+        "08": {
+            "B": {
+                "type": "TRS",
+                "code": "EN"
+            },
+            "1": {
+                "type": "TRS",
+                "code": "EL"
+            },
+            "2": {
+                "type": "TRS",
+                "code": "GP"
+            },
+            "3": {
+                "type": "TRS",
+                "code": "GM"
+            },
+            "4": {
+                "type": "TRS",
+                "code": "HD"
+            },
+            "5": {
+                "type": "TRS",
+                "code": "HB"
             }
         },
         "B9": {
