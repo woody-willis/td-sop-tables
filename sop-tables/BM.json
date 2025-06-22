@@ -266,32 +266,6 @@
                 "to_berth": "BH38"
             }
         },
-        "08": {
-            "B": {
-                "type": "TRS",
-                "code": "EN"
-            },
-            "1": {
-                "type": "TRS",
-                "code": "EL"
-            },
-            "2": {
-                "type": "TRS",
-                "code": "GP"
-            },
-            "3": {
-                "type": "TRS",
-                "code": "GM"
-            },
-            "4": {
-                "type": "TRS",
-                "code": "HD"
-            },
-            "5": {
-                "type": "TRS",
-                "code": "HB"
-            }
-        },
         "B9": {
             "5": {
                 "type": "LXG",
