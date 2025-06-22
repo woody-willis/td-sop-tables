@@ -1,0 +1,80 @@
+{
+    "$schema": "https://raw.githubusercontent.com/woody-willis/td-sop-tables/refs/heads/main/schema.json",
+    "id": "AN",
+    "name": "Allington Junction",
+    "topic": "TD_MC_EM_SIG_AREA",
+    "indications": [
+        "SIG"
+    ],
+    "mappings": {
+        "00": {
+            "0": {
+                "type": "SIG",
+                "berth": "3422",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "3423",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "3424",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "3425",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "3426",
+                "set_state": "OFF"
+            },
+            "5": {
+                "type": "SIG",
+                "berth": "3427",
+                "set_state": "OFF"
+            },
+            "6": {
+                "type": "SIG",
+                "berth": "3428",
+                "set_state": "OFF"
+            },
+            "7": {
+                "type": "SIG",
+                "berth": "3431",
+                "set_state": "OFF"
+            }
+        },
+        "01": {
+            "0": {
+                "type": "SIG",
+                "berth": "3432",
+                "set_state": "OFF"
+            },
+            "1": {
+                "type": "SIG",
+                "berth": "3433",
+                "set_state": "OFF"
+            },
+            "2": {
+                "type": "SIG",
+                "berth": "3434",
+                "set_state": "OFF"
+            },
+            "3": {
+                "type": "SIG",
+                "berth": "3438",
+                "set_state": "OFF"
+            },
+            "4": {
+                "type": "SIG",
+                "berth": "4145",
+                "set_state": "OFF"
+            }
+        }
+    }
+}
