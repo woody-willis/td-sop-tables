@@ -10,263 +10,263 @@
         "LXG"
     ],
     "mappings": {
-        "00": {
-            "0": {
+        "BH": {
+            "B": {
                 "type": "SIG",
-                "berth": "BMBH0074",
+                "berth": "BH74",
                 "set_state": "OFF"
             },
             "1": {
                 "type": "SIG",
-                "berth": "BMBH0073",
+                "berth": "BH73",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "BMBH0042",
+                "berth": "BH42",
                 "set_state": "OFF"
             },
             "3": {
                 "type": "SIG",
-                "berth": "BMBH0041",
+                "berth": "BH41",
                 "set_state": "OFF"
             },
             "4": {
                 "type": "SIG",
-                "berth": "BMBH0040",
+                "berth": "BH40",
                 "set_state": "OFF"
             },
             "5": {
                 "type": "SIG",
-                "berth": "BMBH0039",
+                "berth": "BH39",
                 "set_state": "OFF"
             },
             "6": {
                 "type": "SIG",
-                "berth": "BMBH0038",
+                "berth": "BH38",
                 "set_state": "OFF"
             },
             "7": {
                 "type": "SIG",
-                "berth": "BMBH0020",
+                "berth": "BH20",
                 "set_state": "OFF"
             }
         },
-        "01": {
+        "B1": {
             "1": {
                 "type": "SIG",
-                "berth": "BMBH0081",
+                "berth": "BH81",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "BMBH0080",
+                "berth": "BH80",
                 "set_state": "OFF"
             },
             "3": {
                 "type": "SIG",
-                "berth": "BMBH0079",
+                "berth": "BH79",
                 "set_state": "OFF"
             },
             "4": {
                 "type": "SIG",
-                "berth": "BMBH0078",
+                "berth": "BH78",
                 "set_state": "OFF"
             },
             "5": {
                 "type": "SIG",
-                "berth": "BMBH0077",
+                "berth": "BH77",
                 "set_state": "OFF"
             },
             "6": {
                 "type": "SIG",
-                "berth": "BMBH0076",
+                "berth": "BH76",
                 "set_state": "OFF"
             },
             "7": {
                 "type": "SIG",
-                "berth": "BMBH0075",
+                "berth": "BH75",
                 "set_state": "OFF"
             }
         },
-        "02": {
+        "B2": {
             "1": {
                 "type": "SIG",
-                "berth": "BMBH0072",
+                "berth": "BH72",
                 "set_state": "OFF"
             },
             "2": {
                 "type": "SIG",
-                "berth": "BMBH0071",
+                "berth": "BH71",
                 "set_state": "OFF"
             }
         },
-        "03": {
-            "0": {
+        "B3": {
+            "B": {
                 "type": "RTE",
-                "from_berth": "BMBH0040",
-                "to_berth": "BMBH0076",
+                "from_berth": "BH40",
+                "to_berth": "BH76",
                 "route_type": "C"
             },
             "1": {
                 "type": "RTE",
-                "from_berth": "BMBH0040",
-                "to_berth": "BMBH0076",
+                "from_berth": "BH40",
+                "to_berth": "BH76",
                 "route_type": "M"
             },
             "2": {
                 "type": "RTE",
-                "from_berth": "BMBH0040",
-                "to_berth": "BMBH0020",
+                "from_berth": "BH40",
+                "to_berth": "BH20",
                 "route_type": "C"
             },
             "3": {
                 "type": "RTE",
-                "from_berth": "BMBH0040",
-                "to_berth": "BMBH0020",
+                "from_berth": "BH40",
+                "to_berth": "BH20",
                 "route_type": "M"
             },
             "4": {
                 "type": "RTE",
-                "from_berth": "BMBH0039",
-                "to_berth": "BMBH0079"
+                "from_berth": "BH39",
+                "to_berth": "BH79"
             },
             "5": {
                 "type": "RTE",
-                "from_berth": "BMBH0039",
-                "to_berth": "BMBH0041"
+                "from_berth": "BH39",
+                "to_berth": "BH41"
             },
             "6": {
                 "type": "RTE",
-                "from_berth": "BMBH0038",
-                "to_berth": "BMBH0074"
+                "from_berth": "BH38",
+                "to_berth": "BH74"
             },
             "7": {
                 "type": "RTE",
-                "from_berth": "BMBH0020",
-                "to_berth": "BMBH0074"
+                "from_berth": "BH20",
+                "to_berth": "BH74"
             }
         },
-        "04": {
-            "0": {
+        "B4": {
+            "B": {
                 "type": "RTE",
-                "from_berth": "BMBH0078",
-                "to_berth": "BMBH0076",
+                "from_berth": "BH78",
+                "to_berth": "BH76",
                 "route_type": "C"
             },
             "1": {
                 "type": "RTE",
-                "from_berth": "BMBH0078",
-                "to_berth": "BMBH0076",
+                "from_berth": "BH78",
+                "to_berth": "BH76",
                 "route_type": "M"
             },
             "2": {
                 "type": "RTE",
-                "from_berth": "BMBH0077",
-                "to_berth": "BMBH0041"
+                "from_berth": "BH77",
+                "to_berth": "BH41"
             },
             "3": {
                 "type": "RTE",
-                "from_berth": "BMBH0077",
-                "to_berth": "BMBH0079"
+                "from_berth": "BH77",
+                "to_berth": "BH79"
             },
             "4": {
                 "type": "RTE",
-                "from_berth": "BMBH0076",
-                "to_berth": "BMBH0074"
+                "from_berth": "BH76",
+                "to_berth": "BH74"
             },
             "5": {
                 "type": "RTE",
-                "from_berth": "BMBH0075",
-                "to_berth": "BMBH0039"
+                "from_berth": "BH75",
+                "to_berth": "BH39"
             },
             "6": {
                 "type": "RTE",
-                "from_berth": "BMBH0075",
-                "to_berth": "BMBH0077"
+                "from_berth": "BH75",
+                "to_berth": "BH77"
             }
         },
-        "05": {
-            "0": {
+        "B5": {
+            "B": {
                 "type": "RTE",
-                "from_berth": "BMBH0115",
-                "to_berth": "BMBH0077"
+                "from_berth": "B115",
+                "to_berth": "BH77"
             },
             "1": {
                 "type": "RTE",
-                "from_berth": "BMBH0115",
-                "to_berth": "BMBH0117"
+                "from_berth": "B115",
+                "to_berth": "B117"
             },
             "4": {
                 "type": "RTE",
-                "from_berth": "BMBH0078",
-                "to_berth": "BMBH0038",
+                "from_berth": "BH78",
+                "to_berth": "BH38",
                 "route_type": "C"
             },
             "5": {
                 "type": "RTE",
-                "from_berth": "BMBH0078",
-                "to_berth": "BMBH0038",
+                "from_berth": "BH78",
+                "to_berth": "BH38",
                 "route_type": "M"
             },
             "6": {
                 "type": "RTE",
-                "from_berth": "BMBH0078",
-                "to_berth": "BMBH0020",
+                "from_berth": "BH78",
+                "to_berth": "BH20",
                 "route_type": "C"
             },
             "7": {
                 "type": "RTE",
-                "from_berth": "BMBH0078",
-                "to_berth": "BMBH0020",
+                "from_berth": "BH78",
+                "to_berth": "BH20",
                 "route_type": "M"
             }
         },
-        "06": {
-            "0": {
+        "B6": {
+            "B": {
                 "type": "RTE",
-                "from_berth": "BMBH0140",
-                "to_berth": "BMBH0020"
+                "from_berth": "B140",
+                "to_berth": "BH20"
             },
             "1": {
                 "type": "RTE",
-                "from_berth": "BMBH0122",
-                "to_berth": "BMBH0020"
+                "from_berth": "B122",
+                "to_berth": "BH20"
             },
             "2": {
                 "type": "RTE",
-                "from_berth": "BMBH0122",
-                "to_berth": "BMBH0038"
+                "from_berth": "B122",
+                "to_berth": "BH38"
             },
             "3": {
                 "type": "RTE",
-                "from_berth": "BMBH0120",
-                "to_berth": "BMBH0119"
+                "from_berth": "B120",
+                "to_berth": "B119"
             },
             "4": {
                 "type": "RTE",
-                "from_berth": "BMBH0120",
-                "to_berth": "BMBH0076"
+                "from_berth": "B120",
+                "to_berth": "BH76"
             },
             "6": {
                 "type": "RTE",
-                "from_berth": "BMBH0117",
-                "to_berth": "BMBH0120"
+                "from_berth": "B117",
+                "to_berth": "B120"
             },
             "7": {
                 "type": "RTE",
-                "from_berth": "BMBH0115",
-                "to_berth": "BMBH0039"
+                "from_berth": "B115",
+                "to_berth": "BH39"
             }
         },
-        "07": {
-            "0": {
+        "B7": {
+            "B": {
                 "type": "RTE",
-                "from_berth": "BMBH0140",
-                "to_berth": "BMBH0038"
+                "from_berth": "B140",
+                "to_berth": "BH38"
             }
         },
-        "09": {
+        "B9": {
             "5": {
                 "type": "LXG",
                 "name": "Yapton",
